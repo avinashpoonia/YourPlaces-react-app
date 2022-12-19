@@ -1,5 +1,7 @@
 # YourPlaces-react-app
-This is the repository for the frontend of the react app "YourPlace".
+This is the repository for the frontend of the react app "YourPlaces".
+
+App demo video : https://youtu.be/e-bW3bXzEZw
 
 For the front end of the application. I used React, javascript, and CSS for styling.
 In this app a user can authenticate to this app using their email, password, name and profile photo.
